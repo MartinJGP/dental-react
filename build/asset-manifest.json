@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd73f0f7.css",
+    "main.js": "/static/js/main.7de5b210.js",
+    "static/js/787.0451fb7f.chunk.js": "/static/js/787.0451fb7f.chunk.js",
+    "static/media/ortodoncia.jpg": "/static/media/ortodoncia.a1dc9811916014ea5319.jpg",
+    "static/media/estetica.jpg": "/static/media/estetica.98f87960bea331270160.jpg",
+    "static/media/Periodoncia.png": "/static/media/Periodoncia.d6c10a2e3608f1180a55.png",
+    "static/media/dent2.jpg": "/static/media/dent2.9af8091a6f03e5bda786.jpg",
+    "static/media/dent1.jpg": "/static/media/dent1.bd17ab14576201425621.jpg",
+    "static/media/dent3.jpg": "/static/media/dent3.1ab3a37c0da455eb5a2e.jpg",
+    "static/media/implantes.png": "/static/media/implantes.88092967dcffb6cf25c0.png",
+    "static/media/footer.jpg": "/static/media/footer.37d11859130eb7238cc2.jpg",
+    "static/media/radiografia.jpg": "/static/media/radiografia.6ac168c5158a145f9aa5.jpg",
+    "static/media/Odontopediatria.jpg": "/static/media/Odontopediatria.9233c4703778900fe13a.jpg",
+    "static/media/integral.jpg": "/static/media/integral.d14e28b6543348082d2a.jpg",
+    "static/media/protesis-dentales.jpg": "/static/media/protesis-dentales.1fc49b7a3cf0dbdbb2d7.jpg",
+    "static/media/logo.png": "/static/media/logo.98005842d94707021217.png",
+    "static/media/Endodoncia.jpg": "/static/media/Endodoncia.f09bee49f2309b284394.jpg",
+    "index.html": "/index.html",
+    "main.bd73f0f7.css.map": "/static/css/main.bd73f0f7.css.map",
+    "main.7de5b210.js.map": "/static/js/main.7de5b210.js.map",
+    "787.0451fb7f.chunk.js.map": "/static/js/787.0451fb7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd73f0f7.css",
+    "static/js/main.7de5b210.js"
+  ]
+}
